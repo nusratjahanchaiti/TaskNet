@@ -1,14 +1,11 @@
 # TaskNet
 
-# TaskNet - Todo Application
-
 ## Overview
 **TaskNet** is a web-based Todo Application built with **Java**, **Apache NetBeans**, and **Tomcat 9**.  
 It allows users to manage tasks efficiently, including creating, updating, and deleting tasks.
 
 This project is ideal for learning **Java web development**, **Servlets/JSP**, and **basic project management** features.
 
----
 
 ## Features
 
@@ -19,7 +16,6 @@ This project is ideal for learning **Java web development**, **Servlets/JSP**, a
 - Built using standard **Java Servlets, JSP, and HTML/CSS**
 - Works with **Apache Tomcat 9** server
 
----
 
 ## Technologies Used
 
@@ -30,14 +26,12 @@ This project is ideal for learning **Java web development**, **Servlets/JSP**, a
 - **Version Control:** Git/GitHub
 
 
----
 
-## **Clone the repository:**
+## **Clone this repository:**
 ```bash
 git clone https://github.com/nusratjahanchaiti/TaskNet.git
 cd TaskNet
-
----
+```
 
 ## Usage
 
@@ -47,7 +41,6 @@ cd TaskNet
 -Delete tasks you no longer need
 -Track task completion status
 
----
 
 ## Contributing
 
@@ -56,20 +49,15 @@ Contributions are welcome!
 -Make your changes
 -Submit a pull request
 
----
 
 ## License
 
 This project is licensed under the MIT License.
 
----
 
 ## Contact
 
 GitHub: nusratjahanchaiti
-
 Email: nusratjchaiti@gmail.com
 
-
----
 
