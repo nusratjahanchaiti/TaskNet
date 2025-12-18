@@ -1,6 +1,5 @@
 # TaskNet
 
-## Overview
 **TaskNet** is a web-based Todo Application built with **Java**, **Apache NetBeans**, and **Tomcat 9**.  
 It allows users to manage tasks efficiently, including creating, updating, and deleting tasks.
 
