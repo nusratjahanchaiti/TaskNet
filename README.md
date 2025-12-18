@@ -1,6 +1,6 @@
 # TaskNet
 
-**TaskNet** TaskNet is a dynamic web-based system built with **Java technologies** such as **JSP**, **Servlets**, and **JDBC**, connected to a **MySQL database**. Users can register, log in, and manage a personal todo list by performing Create, Read, Update, and Delete (CRUD) operations on tasks with simple and user-friendly interface. 
+**TaskNet** is a dynamic web-based system built with **Java technologies** such as **JSP**, **Servlets**, and **JDBC**, connected to a **MySQL database**. Users can register, log in, and manage a personal todo list by performing Create, Read, Update, and Delete (CRUD) operations on tasks with simple and user-friendly interface. 
 
 This project is ideal for learning **Java web development**, **Servlets/JSP**, and **basic project management** features.
 
