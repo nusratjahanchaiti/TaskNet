@@ -35,29 +35,27 @@ cd TaskNet
 
 ## Usage
 
--Open the Todo App in the browser
--Create a new task by entering a title and description
--Edit tasks to update details
--Delete tasks you no longer need
--Track task completion status
+- Open the Todo App in the browser
+- Create a new task by entering a title and description
+- Edit tasks to update details
+- Delete tasks you no longer need
+- Track task completion status
 
 
 ## Contributing
 
 Contributions are welcome!
--Fork the repository
--Make your changes
--Submit a pull request
+
+- Fork the repository
+- Make your changes
+- Submit a pull request
 
 
 ## License
-
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 
 ## Contact
-
-GitHub: nusratjahanchaiti
 Email: nusratjchaiti@gmail.com
 
 
