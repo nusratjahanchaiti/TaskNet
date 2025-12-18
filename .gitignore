@@ -1,0 +1,45 @@
+# Java & NetBeans IDE
+
+# Ignore build & dist folders
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Ignore NetBeans private project config
+nbproject/private/
+
+# But keep NetBeans project definitions
+!nbproject/project.xml
+!nbproject/project.properties
+
+# Ignore NetBeans cache
+.nb-gradle/
+
+# Compiled & Package Files
+
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs / OS / Temp
+
+*.log
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Tomcat / Server
+
+logs/
+work/
+temp/
+
+# Environment / Secrets 
+
+*.env
+*.db
+*.sqlite
